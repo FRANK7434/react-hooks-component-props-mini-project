@@ -1,9 +1,4 @@
 import logo from "../assets/logo";
-function blogData({name}){
-  return(
-<h1>{name}</h1>
-  )
-}
 const blogData = {
   name: "Underreacted",
   image: logo,

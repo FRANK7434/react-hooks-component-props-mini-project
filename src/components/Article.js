@@ -8,3 +8,4 @@ function Article({title,date,preview}){
         </Article>
     )
 }
+export default Article
